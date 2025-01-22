@@ -14,8 +14,8 @@ Argo is an home robot designed for autonomous navigation, conversational AI, ent
 
 # Open-Source R&D: Humanoid Robotics
 
-<img src="../images/argo_humanoid1.png" alt="Waveform" style="width:60%; height:auto;">
-<Caption><br>
+<img src="../images/argo_humanoid1.png" alt="Waveform" style="width:50%; height:auto;">
+<Caption>
     Original waveform of an audio signal.
 </Caption><br><br>
 
