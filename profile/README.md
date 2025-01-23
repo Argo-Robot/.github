@@ -15,6 +15,6 @@ As Argo progresses, the need for advanced robotics technologies like manipulatio
 Explore our repositories and deep-dive tutorials:
 
 - [**Footsteps Planning**](https://github.com/Argo-Robot/footsteps_planning): Algorithms for planning footstep trajectories for a biped given a global path.
-- [**Locomotion Policy for Quadrupeds**](https://github.com/Argo-Robot/wake_word_detection): Reinforcement learning-based policy for quadrupedal robots, enabling adaptive and smooth motion in Mujoco. 
-- [**Locomotion Policy for Bipeds**](https://github.com/Argo-Robot/wake_word_detection): Reinforcement learning-based policy for biped robots, enabling adaptive and smooth motion in Mujoco. 
+- [**Locomotion Policy for Quadrupeds**](https://github.com/FedeAi/locomotion-p0): Reinforcement learning-based policy for quadrupedal robots, enabling adaptive and smooth motion in Mujoco. 
+- **Locomotion Policy for Bipeds**: Reinforcement learning-based policy for biped robots, enabling adaptive and smooth motion in Mujoco. 
 - [**wake-word detection**](https://github.com/Argo-Robot/wake_word_detection): wake-word detection module for conversational AI.
