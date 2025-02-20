@@ -17,4 +17,5 @@ Explore our repositories and deep-dive tutorials:
 - [**Footsteps Planning**](https://github.com/Argo-Robot/footsteps_planning): Algorithms for planning footstep trajectories for a biped given a global path.
 - [**Locomotion Policy for Quadrupeds**](https://github.com/Argo-Robot/quadrupeds_locomotion): Reinforcement learning-based policy for quadrupedal robots, enabling adaptive and smooth motion in Genesis simulator using PPO. 
 - **Locomotion Policy for Bipeds**: Reinforcement learning-based policy for biped robots, enabling adaptive and smooth motion in Genesis simulator using PPO.
+- **Foundation Models for Manipulation**: Imitation learning-based models for robotic manipulation, leveraging large-scale datasets to enable generalization across diverse tasks and environments.
 - [**wake-word detection**](https://github.com/Argo-Robot/wake_word_detection): wake-word detection module for conversational AI.
