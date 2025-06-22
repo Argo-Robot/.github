@@ -19,5 +19,5 @@ Explore our repositories and deep-dive tutorials:
 - [**EKF State Estimation for Humanoids**](https://github.com/Argo-Robot/ekf_locomotion): EKF model to estimate humanoid state (pose + velocities) based on floating base dynamics.
 - [**Foundation Models for Manipulation: Overview**](https://github.com/Argo-Robot/foundation_models): Overview about state-of-art imitation learning techniques for robotic manipulation, enabling generalization across diverse tasks and environments.
 - **Foundation Models for Manipulation: VLA model**: Imitation learning-based VLA model for robotic manipulation.
-- [**Kinematics & Dynamics for robotic arms**](https://github.com/Argo-Robot/kinematics): Library to compute kinematics, inverse kinematics and dynamics for N-dof robotics systems based on DH convention.
+- [**Kinematics & Dynamics**](https://github.com/Argo-Robot/kinematics): Library to compute kinematics, inverse kinematics and dynamics for N-dof robotics systems based on DH convention.
 - [**wake-word detection**](https://github.com/Argo-Robot/wake_word_detection): wake-word detection module for conversational AI.
