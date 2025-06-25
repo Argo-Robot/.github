@@ -17,6 +17,6 @@ Explore our repositories and deep-dive tutorials:
 - [**Footsteps Planning**](https://github.com/Argo-Robot/footsteps_planning): Algorithms for planning footstep trajectories for a biped given a global path.
 - [**Locomotion Policy for Quadrupeds**](https://github.com/Argo-Robot/quadrupeds_locomotion): Reinforcement learning-based policy for quadrupedal robots, enabling adaptive and smooth motion in Genesis simulator using PPO. 
 - [**EKF State Estimation for Humanoids**](https://github.com/Argo-Robot/ekf_locomotion): EKF model to estimate humanoid state (pose + velocities) based on floating base dynamics.
-- [**Foundation Models for Manipulation: Overview**](https://github.com/Argo-Robot/foundation_models): Overview about state-of-art imitation learning techniques for robotic manipulation, enabling generalization across diverse tasks and environments.
+- [**Foundation Models for Manipulation**](https://github.com/Argo-Robot/foundation_models): Overview about state-of-art imitation learning techniques for robotic manipulation, enabling generalization across diverse tasks and environments.
 - [**Kinematics & Dynamics**](https://github.com/Argo-Robot/kinematics): Library to compute kinematics, inverse kinematics and dynamics for N-dof robotics systems based on Denavit-Hartenberg convention.
 - [**wake-word detection**](https://github.com/Argo-Robot/wake_word_detection): wake-word detection module for conversational AI.
